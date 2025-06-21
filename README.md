@@ -1,1 +1,1 @@
-# laotzes-dialogues
+# laotze's dialogues
