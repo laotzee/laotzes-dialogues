@@ -1,3 +1,9 @@
+---
+lang: es/en
+title: My Title
+type: post
+tags: [linux, cli]
+---
 We need a way to get back to ourselves.
 
 We can be facing a problem so complex, or so many simultaneously, that we fall prey to turmoil.
